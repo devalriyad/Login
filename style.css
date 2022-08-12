@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    text-align: center;
+
+}
+.main-div{
+    background-color: whitesmoke;
+    border: 2px solid black;
+    width: 400px;
+    height: 500px;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+h1{
+    text-align: center;
+    margin-top: 35px;
+    color: #121313;
+   font-family:  Arial, sans-serif;
+}
+
+input[type=email], [type=password]{
+    height: 30px;
+    width: 230px;
+    border-radius: 20px;
+    padding: 5px;
+    margin-top: 25px;
+    border: 1px solid gray;
+    
+   
+}
+
+input[type=submit]{
+    height: 40px;
+    width: 240px;
+    margin-top: 20px;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    margin-left: 5px;
+    color: whitesmoke;
+    background: rgb(4, 192, 129);
+    font-size: 17px;
+  cursor: pointer;
+  background: #000;
+    
+}  
+a{ 
+    text-decoration: none;
+    margin-top: 18px;
+    display: block;
+    margin-left: 20px;
+    color: rgb(14, 14, 14);
+
+}
+
+h2{
+    font-size: 15px;
+    margin-top: 15px;
+    color: #242c2a;
+    font-weight: 550;
+   font-family: sans-serif;
+
+
+}
+ #face{
+ text-align: center;
+margin-left: 10px;
+  }
+
+.or{
+        text-align: center;
+        color: black;
+        background: whitesmoke;
+        border-radius: 50%;
+        width: 20px;
+        height: 20px;
+       margin-top: -32px;
+       padding: 2px;
+        border:  1px solid gray;
+        margin-left: 190px;
+        font-size: 15px;
+        font-weight: bolder;
+}
